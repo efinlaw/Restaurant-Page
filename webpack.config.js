@@ -10,7 +10,7 @@ module.exports = {
   devtool: 'inline-source-map',
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Bub\'s Bakery',
+      title: 'Bubs Biscuits N Gravy',
       template: './src/index.html',
       inject: 'body',
     }),
